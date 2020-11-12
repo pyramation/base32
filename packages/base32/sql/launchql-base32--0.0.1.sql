@@ -314,4 +314,4 @@ BEGIN
 
   RETURN array_to_string(output, '');
 END;
-$EOFCODE$ LANGUAGE plpgsql STABLE;
+$EOFCODE$ LANGUAGE plpgsql IMMUTABLE;

@@ -167,6 +167,6 @@ BEGIN
   RETURN array_to_string(output, '');
 END;
 $$
-LANGUAGE 'plpgsql' STABLE;
+LANGUAGE 'plpgsql' IMMUTABLE;
 
 COMMIT;
