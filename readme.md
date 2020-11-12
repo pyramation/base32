@@ -1,4 +1,4 @@
-# utils [![Build Status](https://travis-ci.org/launchql/utils.svg?branch=master)](https://travis-ci.org/launchql/utils)
+# base32 [![Build Status](https://travis-ci.org/pyramation/base32.svg?branch=master)](https://travis-ci.org/pyramation/base32)
 
 RFC4648 Base32 encode/decode in plpgsql
 
