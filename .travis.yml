@@ -17,8 +17,7 @@ env:
     - APP_USER=app_user
     - APP_PASSWORD=app_password
   matrix:
-    - PACKAGE=packages/types
-    - PACKAGE=packages/jobs
+    - PACKAGE=packages/base32
 
 before_install:
   - yarn install
