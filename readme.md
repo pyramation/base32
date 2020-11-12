@@ -1,4 +1,4 @@
-# base32 [![Build Status](https://travis-ci.org/pyramation/base32.svg?branch=master)](https://travis-ci.org/pyramation/base32)
+# base32 [![Build Status](https://travis-ci.com/pyramation/base32.svg?branch=master)](https://travis-ci.com/pyramation/base32)
 
 RFC4648 Base32 encode/decode in plpgsql
 
