@@ -131,6 +131,7 @@ cases(
     { result: 'foo', name: 'MZXW6===' },
     { result: 'foob', name: 'MZXW6YQ=' },
     { result: 'fooba', name: 'MZXW6YTB' },
+    { result: 'fooba', name: 'mzxw6ytb' },
     { result: 'foobar', name: 'MZXW6YTBOI======' }
   ]
 );

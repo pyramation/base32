@@ -17,3 +17,5 @@ exports[`base32 MZXW6YTB 1`] = `"fooba"`;
 exports[`base32 MZXW6YTBOI====== 1`] = `"foobar"`;
 
 exports[`base32 case: 1 1`] = `""`;
+
+exports[`base32 mzxw6ytb 1`] = `"fooba"`;

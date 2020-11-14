@@ -282,6 +282,7 @@ DECLARE
   bits int = 0;
 BEGIN
   input = replace(input, '=', '');
+  input = upper(input);
   len = character_length(input);
   num = len * 5 / 8;
 
