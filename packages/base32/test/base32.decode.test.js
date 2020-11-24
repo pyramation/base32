@@ -86,7 +86,7 @@ it('decode', async () => {
   const [{ decode }] = await base32.call('decode', {
     input: 'INQXI'
   });
-  console.log(decode);
+  expect(decode).toEqual('Cat');
 });
 
 it('zero_fill', async () => {

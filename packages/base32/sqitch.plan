@@ -2,6 +2,6 @@
 %project=launchql-base32
 %uri=launchql-base32
   
-schemas/base32/schema 2020-11-12T06:37:51Z Dan Lynch <dlynch@Dans-MBP-3> # add schemas/base32/schema
-schemas/base32/procedures/encode [schemas/base32/schema] 2020-11-12T06:38:08Z Dan Lynch <dlynch@Dans-MBP-3> # add schemas/base32/procedures/encode
-schemas/base32/procedures/decode [schemas/base32/schema] 2020-11-12T09:19:21Z Dan Lynch <dlynch@Dans-MBP-3> # add schemas/base32/procedures/decode
+schemas/base32/schema 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/base32/schema
+schemas/base32/procedures/encode [schemas/base32/schema] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/base32/procedures/encode
+schemas/base32/procedures/decode [schemas/base32/schema schemas/base32/procedures/encode] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/base32/procedures/decode

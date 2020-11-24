@@ -1,14 +1,15 @@
 {
   "name": "@launchql/base32",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "base32",
   "author": "Web, Inc. <pyramation@gmail.com>",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "scripts": {
     "test": "FAST_TEST=1 launchql-templatedb && jest",
-    "test:watch": "FAST_TEST=1 jest --watch"
+    "test:watch": "FAST_TEST=1 jest --watch",
+    "prepare": "lql package"
   },
   "devDependencies": {
     "@babel/cli": "7.10.4",

@@ -1,7 +1,7 @@
 version: "2"
 services:
   postgres:
-    container_name: utils-postgres
+    container_name: base32-postgres
     image: pyramation/postgis
     environment:
       - "POSTGRES_USER=postgres"
